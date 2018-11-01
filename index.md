@@ -1,4 +1,4 @@
-#CV of Teng Guo
+## CV of Teng Guo
 
 UnderGraduate:University of Science and Technology of China
 
@@ -27,7 +27,8 @@ WebPage [home.ustc.edu.cn/~greaten](https://home.ustc.edu.cn/~greaten)
 ### Research Experience
 ```markdown
 #1.Facial Expression Recognition
-I cotributed to a project with my group members on facial expression recognition when I was a freshman. We employed OpenCV to process the image data,PCA algorithm to lower the dimension of data and extract characteristcs and KNN algorithm to classify them. Our training data is JAFFE dataset.With those methods mentioned above,we made a simple demo which can capture the image of a person's face with the camera of PC and classify the facial expression into corresonding images.Although the accuracy is not high but it does work.
+I cotributed to a project with my group members on facial expression recognition when I was a freshman. 
+We employed OpenCV to process the image data,PCA algorithm to lower the dimension of data and extract characteristcs and KNN algorithm to classify them. Our training data is JAFFE dataset.With those methods mentioned above,we made a simple demo which can capture the image of a person's face with the camera of PC and classify the facial expression into corresonding images.Although the accuracy is not high but it does work.
 
 #2.Quantum Monte Carlo Simulation
 
