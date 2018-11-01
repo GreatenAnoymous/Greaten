@@ -2,21 +2,21 @@
 
 UnderGraduate:University of Science and Technology of China
 
-Major:Optics and optical engineering 
+Major:  Optics and optical engineering 
 
-Toefl:106(S=22)
+Toefl:  106(S=22)
 
-GRE:152W+167Q
+GRE:  152W+167Q
 
-GPA:3.92/4.3
+GPA:  3.92/4.3
 
-Phone:15156003195
+Phone:  (86)15156003195
 
-EMail:2274880117@qq.com && greaten@mail.ustc.edu.cn
+EMail:  2274880117@qq.com && greaten@mail.ustc.edu.cn
 
-Address: University of Science and Technology of China, No.96, JinZhai Road Baohe District,Hefei,Anhui, 230026,P.R.China
+Address:   University of Science and Technology of China, No.96, JinZhai Road Baohe District,Hefei,Anhui, 230026,P.R.China
 
-WebPage [home.ustc.edu.cn/~greaten](https://home.ustc.edu.cn/~greaten) 
+HomePage:   [home.ustc.edu.cn/~greaten](https://home.ustc.edu.cn/~greaten) 
 
 ### Research Interest
 ```markdown
