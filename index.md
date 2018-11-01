@@ -38,8 +38,10 @@ computing the residual energy and entaglement entropy in the vicinity of critica
 in our midel,both of residual energy and entanglement entropy scale linearly to quench time.
 
 #4.Electromagnetism Thesis Competition
-  It's a competition held by USTC. I submited a thesis about how to estimate the dielectric coefficient constant of H2O. And I
+  It's a competition held by USTC. I submitted a thesis about how to estimate the dielectric coefficient constant of H2O. And I
 got third prize unexpectedly.
+
+
 ```
 
 ### Contact
