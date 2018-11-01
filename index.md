@@ -6,7 +6,7 @@ Major:  Optics and optical engineering
 
 Toefl:  106(S=22)
 
-GRE:  152W+167Q
+GRE:  152V+167Q
 
 GPA:  3.92/4.3
 
