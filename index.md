@@ -1,4 +1,4 @@
-##CV of Teng Guo
+#CV of Teng Guo
 
 UnderGraduate:University of Science and Technology of China
 
