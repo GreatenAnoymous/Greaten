@@ -41,8 +41,9 @@ in our midel,both of residual energy and entanglement entropy scale linearly to 
   It's a competition held by USTC. I submitted a thesis about how to estimate the dielectric coefficient constant of H2O. And I
 got third prize unexpectedly.
 
-
 ```
+### Skills
+Adept in Python,C++,Matlab,Mathematica. Farmiliar with Fortran and Java.  
 
 ### Contact
 
