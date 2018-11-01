@@ -10,14 +10,6 @@ GRE:  152W+167Q
 
 GPA:  3.92/4.3
 
-Phone:  (86)15156003195
-
-EMail:  [2274880117@qq.com](https://greatenanoymous.github.io/Greaten/) && [greaten@mail.ustc.edu.cn](https://greatenanoymous.github.io/Greaten/)
-
-Address:   University of Science and Technology of China, No.96, JinZhai Road Baohe District,Hefei,Anhui, 230026,P.R.China
-
-HomePage:   [home.ustc.edu.cn/~greaten](https://greatenanoymous.github.io/Greaten/) 
-
 ### Research Interest
 ```markdown
 #1.Numerical simulation in qunatum physics.
@@ -27,20 +19,30 @@ HomePage:   [home.ustc.edu.cn/~greaten](https://greatenanoymous.github.io/Greate
 ### Research Experience
 ```markdown
 #1.Facial Expression Recognition
-I cotributed to a project with my group members on facial expression recognition when I was a freshman. 
-We employed OpenCV to process the image data,PCA algorithm to lower the dimension of data and extract characteristcs and KNN algorithm to classify them. Our training data is JAFFE dataset.With those methods mentioned above,we made a simple demo which can capture the image of a person's face with the camera of PC and classify the facial expression into corresonding images.Although the accuracy is not high but it does work.
+  I cotributed to a project with my group members on facial expression recognition when I was a freshman. 
+We employed OpenCV to process the image data,PCA algorithm to lower the dimension of data and extract characteristcs
+and KNN algorithm to classify them. Our training data is JAFFE dataset.With those methods mentioned above,we made 
+a simple demo which can capture the image of a person's face with the camera of PC and classify the facial 
+expression into corresonding images.Although the accuracy is not high but it does work.
 
 #2.Quantum Monte Carlo Simulation
+  I joined in Prodessor Gong Ming's group when I was a sophomore. My work was to study quantum system
+with quantum monte carlo method. I developed my own Variational Monte Carlo and Diffusion Monte Carlo to 
+compute ground state energy,one body density matrix, static structure factor of 1d quantum system.
 
-
-#3.Numerical Study of TriCritical Dicke Model.
+#3.TriCritical Dicke Model
+  This summer I participate in a summer research on tricritical Dicke model,with the help of Professor Han Pu
+from Rice University. We focused on the KZ-mechanism of our tricritical model.I finished the code with mathematica,
+computing the residual energy and entaglement entropy in the vicinity of critical point. We found that the
+in our midel,both of residual energy and entanglement entropy scale linearly to quench time.
 ```
-
-
-
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GreatenAnoymous/Greaten/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Phone:  (86)15156003195
+
+EMail:  [2274880117@qq.com](https://greatenanoymous.github.io/Greaten/) && [greaten@mail.ustc.edu.cn](https://greatenanoymous.github.io/Greaten/)
+
+Address:   University of Science and Technology of China, No.96, JinZhai Road Baohe District,Hefei,Anhui, 230026,P.R.China
+
+HomePage:   [home.ustc.edu.cn/~greaten](https://greatenanoymous.github.io/Greaten/) 
