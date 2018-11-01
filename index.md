@@ -12,11 +12,11 @@ GPA:  3.92/4.3
 
 Phone:  (86)15156003195
 
-EMail:  [2274880117@qq.com](https://home.ustc.edu.cn/~greaten) && [greaten@mail.ustc.edu.cn](https://home.ustc.edu.cn/~greaten)
+EMail:  [2274880117@qq.com](https://greatenanoymous.github.io/Greaten/) && [greaten@mail.ustc.edu.cn](https://greatenanoymous.github.io/Greaten/)
 
 Address:   University of Science and Technology of China, No.96, JinZhai Road Baohe District,Hefei,Anhui, 230026,P.R.China
 
-HomePage:   [home.ustc.edu.cn/~greaten](https://home.ustc.edu.cn/~greaten) 
+HomePage:   [home.ustc.edu.cn/~greaten](https://greatenanoymous.github.io/Greaten/) 
 
 ### Research Interest
 ```markdown
