@@ -12,8 +12,9 @@ GPA:  3.92/4.3
 
 ### Research Interest
 ```markdown
-#1.Numerical simulation in qunatum physics.
+#1.Numerical simulation in qunatum physics or condensed matter physics.
 #2.Application of machine learning for computation.
+#3.Parallel computation.
 ```
 
 ### Research Experience
@@ -37,7 +38,7 @@ computing the residual energy and entaglement entropy in the vicinity of critica
 in our midel,both of residual energy and entanglement entropy scale linearly to quench time.
 ```
 
-### Support or Contact
+### Contact
 
 Phone:  (86)15156003195
 
