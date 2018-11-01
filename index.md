@@ -36,6 +36,10 @@ compute ground state energy,one body density matrix, static structure factor of 
 from Rice University. We focused on the KZ-mechanism of our tricritical model.I finished the code with mathematica,
 computing the residual energy and entaglement entropy in the vicinity of critical point. We found that the
 in our midel,both of residual energy and entanglement entropy scale linearly to quench time.
+
+#4.Electromagnetism Thesis Competition
+  It's a competition held by USTC. I submited a thesis about how to estimate the dielectric coefficient constant of H2O. And I
+got third prize unexpectedly.
 ```
 
 ### Contact
