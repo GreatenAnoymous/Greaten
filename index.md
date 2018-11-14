@@ -24,7 +24,9 @@ GPA:  3.92/4.3
 We employed OpenCV to process the image data,PCA algorithm to lower the dimension of data and extract characteristcs
 and KNN algorithm to classify them. Our training data is JAFFE dataset.With those methods mentioned above,we made 
 a simple demo which can capture the image of a person's face with the camera of PC and classify the facial 
-expression into corresonding images.Although the accuracy is not high but it does work. For more detail, see [MySourceCode](https://github.com/GreatenAnoymous/PCA-facial-expression-recognition)
+expression into corresonding images.Although the accuracy is not high but it does work. 
+  For more detail, see  [PCA](https://github.com/GreatenAnoymous/PCA-facial-expression-recognition)
+
 
 #2.Quantum Monte Carlo Simulation
   I joined in Prodessor Gong Ming's group when I was a sophomore. My work was to study quantum system
