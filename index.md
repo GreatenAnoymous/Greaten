@@ -35,8 +35,8 @@ compute ground state energy,one body density matrix, static structure factor of 
 
 #3.TriCritical Dicke Model
   This summer I participate in a summer research on tricritical Dicke model,with the help of Professor Han Pu
-from Rice University. We focused on the KZ-mechanism of our tricritical model.I finished the code with mathematica,
-computing the residual energy and entaglement entropy in the vicinity of critical point. We found that the
+from Rice University. We focused on the KZ-mechanism of our tricritical Dicke model.I finished the code with mathematica,
+computing the residual energy and entanglement entropy in the vicinity of critical point. We found that the
 in our midel,both of residual energy and entanglement entropy scale linearly to quench time.
 
 #4.Electromagnetism Thesis Competition
