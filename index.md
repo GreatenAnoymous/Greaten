@@ -12,7 +12,7 @@ GPA:  3.9/4.3
 
 ### Research Interest
 ```markdown
-#1.Numerical simulation in qunatum physics or condensed matter physics.
+#1.Qunatum physics or condensed matter physics.
 #2.Application of machine learning for computation.
 #3.Parallel computation.
 ```
