@@ -8,7 +8,7 @@ Toefl:  106(S=22)
 
 GRE:  152V+167Q
 
-GPA:  3.92/4.3
+GPA:  3.9/4.3
 
 ### Research Interest
 ```markdown
